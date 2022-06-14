@@ -50,8 +50,8 @@
 
   
       ,"page1": {
-          "title": "About Me",
-          "content": "##Markdown is supported . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "title": "About Blaine",
+          "content": "##Markdown is supported . Programmer who has done many data centic projects and a few MOOCs severla years ago using R for elementqry data science and Scala. Many years of programming in C, Smalltalk, Java, JavaScript and C++. . Interested in ML for improving exercise and adventure oriented mobile devices such as Polar HR monitors. Second by second data collection has been pretty good for decades. The devices should figure out what I’m doing without me pressing buttons. . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
           "url": "https://blainewishart.github.io/Danzante/about/",
           "relUrl": "/about/",
           "date": ""
